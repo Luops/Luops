@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Luops
 
-  ## Olá, sou o Fabrício Lopes. Futuro desenvolvedor web junior 👀
+  ## Olá, sou o Fabrício Lopes e futuro desenvolvedor web junior!
   
 <div>
 <a href="https://github.com/seu-usuário-aqui">
