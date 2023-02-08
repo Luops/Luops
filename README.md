@@ -18,8 +18,9 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="40" height="40"/>
 </div>
   
-  <div>
-    <a href="mailto:fabricio.rioslopes@gmai.com"><Img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  ##
+ <div>
+   <a href="mailto:fabricio.rioslopes@gmai.com"><Img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
   
-  </div>
+ </div>
 
